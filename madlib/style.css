@@ -1,0 +1,16 @@
+input, button {
+    display: block;
+    margin-bottom: .5em;
+}
+
+body {
+    background-color: greenyellow;
+}
+
+p {
+    color: red;
+}
+
+h3 {
+    color: darkblue;
+}
