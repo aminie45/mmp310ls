@@ -20,18 +20,10 @@ h1 {
 input {
     display: block;
     margin: 4.9em auto;
-    padding: 0.9em 1.0em;
-    width: 200px;
+    padding: 1em 1.0em;
     text-align: center;
-    font-size: 0.7e
-}
-
-input {
-    -webkit-border-radius: 50px;
+    font-size: 0.7e -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
-    border-radius: 50px;
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-
+    border-radius: 70px;
+    width: 35%;
 }
