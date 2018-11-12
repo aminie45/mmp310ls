@@ -17,6 +17,10 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    text-align: right;
+}
+
 input {
     display: block;
     margin: 4.9em auto;
