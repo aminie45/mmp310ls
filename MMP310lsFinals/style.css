@@ -10,7 +10,7 @@ ul {
 }
 
 .link {
-    display: inline-block;
+    display: grid;
     padding-right: 1em;
 }
 
